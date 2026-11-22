@@ -1,0 +1,30 @@
+[
+  {
+    "id": "NS-004",
+    "titel": "Scherm defect",
+    "omschrijving": "Scherm op de 4de verdieping defect",
+    "status": "Open",
+    "prioriteit": "Hoog"
+  },
+  {
+    "id": "NS-003",
+    "titel": "Printer bij receptie geeft storing",
+    "omschrijving": "De printer geeft een foutmelding en print geen documenten meer. De papierlade is gecontroleerd.",
+    "status": "In behandeling",
+    "prioriteit": "Laag"
+  },
+  {
+    "id": "NS-002",
+    "titel": "Toegangspas aanvragen",
+    "omschrijving": "Een nieuwe medewerker heeft een toegangspas nodig voor de kantoorruimtes.",
+    "status": "Open",
+    "prioriteit": "Normaal"
+  },
+  {
+    "id": "NS-001",
+    "titel": "Airco op verdieping 2 werkt niet",
+    "omschrijving": "De airco in vergaderruimte B wordt niet koud. De ruimte is daardoor erg warm.",
+    "status": "In behandeling",
+    "prioriteit": "Hoog"
+  }
+]
